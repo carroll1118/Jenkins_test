@@ -8,5 +8,6 @@ public class Test {
     public void print() {
         System.out.println("-----------------测试1----------");
         System.out.println("-----------------测试2----------");
+        System.out.println("-----------------测试3----------");
     }
 }
